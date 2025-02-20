@@ -21,3 +21,5 @@ Ejercicio 6:
     Verificación de Saldo Bancario
         Se creo un objeto con los datos de una cuenta bancaria(nombre y saldo) y se mandaban a una promesa que recibio la informacion de la cuenta y el monto que se se quiere retirar y mostrar un mensaje detallado de la informacion de la cuenta y las transaccion que se realizo.                     
 Ejercicio 7:
+Clima
+El objetivo es buscar una ciudad con el uso de una función y de promesas, para posteriormente buscarla en una mini base de datos de nuestra elección con los campos de ciudad, descripción del clima, temperatura. Se debe de mandar a la función que recibe un dato tipo string que es la ciudad y realiza la busqueda correspondient, si la busqueda es exitosa nos devuelve la información que corresponde a la ciudad, si no nos dice que la ciudad no es correcta o no se encuentra registrada en la base de datos
