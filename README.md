@@ -3,6 +3,8 @@ Repositorio de ejercicios de promesas de la clase del dia 20 de febrero de 2025
 
 
 Ejercicio 1:
+    Crea una función descargarArchivo(tamaño) que devuelva una promesa. Si el tamaño es menor o igual a 50MB, la promesa se resuelve con "Descarga completada". Si el tamaño es mayor a 50MB, la promesa se rechaza        con "El archivo es demasiado grande".
+    Se creó una promesa con la estructura proporcionada por el docente, en este caso solo recibía el parámetro del tamaño del archivo. Se testeó con el .then y .catch para comprobar las condiciones.
 
 Ejercicio 2:
 
@@ -12,6 +14,8 @@ Ejercicio 3:
 Ejercicio 4:
 
 Ejercicio 5:
+    Se creó una promesa que recibía dos parámetros, el usuario y la contraseña para hacer un login. En el resolve de la promesa hay un objeto que muestra los datos solicitados en salida, mismo caso en el reject.
+    Se piden datos diferentes en la salida, es decir, en el caso de que sean correctas las credenciales, muestra el usuario y un mensaje de éxito. En el caso de ser incorrectas, muestra un mensaje de errory un código
 
 Ejercicio 6:
     Verificación de Saldo Bancario
