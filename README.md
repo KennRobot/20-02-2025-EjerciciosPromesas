@@ -7,12 +7,12 @@ Ejercicio 1:
     Se creó una promesa con la estructura proporcionada por el docente, en este caso solo recibía el parámetro del tamaño del archivo. Se testeó con el .then y .catch para comprobar las condiciones.
 
 Ejercicio 2:
-
+se precenta un filtro de edades, para verificar si se puede realizar la compra o no de un producto.
 Ejercicio 3:
     Verificación de Stock en una Tienda.
     Se creo una promesa que reciba dos paramentos y las compare con los datos de un objeto para determinar si el producto existe y si tiene stock disponible.                       
 Ejercicio 4:
-
+ verificacion de monto de pago, se crea una función que haga una simulación de una terminal bancaria para realizar una transacción, si el monto a pagar es mayor a cero se procesa el pago de lo contraria se rechaza ya que existe un error en el metodo de pago
 Ejercicio 5:
     Se creó una promesa que recibía dos parámetros, el usuario y la contraseña para hacer un login. En el resolve de la promesa hay un objeto que muestra los datos solicitados en salida, mismo caso en el reject.
     Se piden datos diferentes en la salida, es decir, en el caso de que sean correctas las credenciales, muestra el usuario y un mensaje de éxito. En el caso de ser incorrectas, muestra un mensaje de errory un código
