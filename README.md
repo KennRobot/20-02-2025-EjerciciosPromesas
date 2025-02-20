@@ -8,7 +8,7 @@ Ejercicio 2:
 
 Ejercicio 3:
     Verificación de Stock en una Tienda.
-    Se creo una promesa que reciba dos paramentos y las compare con los datos de un obketo para determinar si el producto existe y si tiene stock disponible.                       
+    Se creo una promesa que reciba dos paramentos y las compare con los datos de un objeto para determinar si el producto existe y si tiene stock disponible.                       
 Ejercicio 4:
 
 Ejercicio 5:
